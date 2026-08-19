@@ -1,0 +1,36 @@
+[
+  {
+    "step": 1,
+    "constrained_score": 0.22968216240406036,
+    "evaluation": "same-user observed candidate-slate ranking against behavior cloning (offline proxy)",
+    "slates": 102,
+    "actor_logged_action_mse": 0.10621456801891327,
+    "policy_watch_time": 0.22968216240406036,
+    "policy_click": 0.19607843458652496,
+    "policy_like": 0.0,
+    "policy_comment": 0.0,
+    "policy_hate": -0.0,
+    "bc_watch_time": 0.13281279802322388,
+    "bc_click": 0.12745098769664764,
+    "bc_like": 0.0,
+    "bc_comment": 0.0,
+    "bc_hate": -0.0
+  },
+  {
+    "step": 2,
+    "constrained_score": 0.22968216240406036,
+    "evaluation": "same-user observed candidate-slate ranking against behavior cloning (offline proxy)",
+    "slates": 102,
+    "actor_logged_action_mse": 0.10514242202043533,
+    "policy_watch_time": 0.22968216240406036,
+    "policy_click": 0.19607843458652496,
+    "policy_like": 0.0,
+    "policy_comment": 0.0,
+    "policy_hate": -0.0,
+    "bc_watch_time": 0.13281279802322388,
+    "bc_click": 0.12745098769664764,
+    "bc_like": 0.0,
+    "bc_comment": 0.0,
+    "bc_hate": -0.0
+  }
+]

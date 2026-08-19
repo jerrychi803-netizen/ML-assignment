@@ -1,0 +1,26 @@
+{
+  "evaluation": "observed within-user slate re-ranking (semi-synthetic offline evaluation)",
+  "slates": 61,
+  "actor_logged_action_mse": 0.10326899588108063,
+  "policy_selected_reward": -3.50675630569458,
+  "policy_selected_engagement": 0.3301374018192291,
+  "policy_selected_fatigue": 0.5655737519264221,
+  "logged_candidate_reward": -3.3268637657165527,
+  "logged_candidate_engagement": 0.40586772561073303,
+  "logged_candidate_fatigue": 0.49793046712875366,
+  "n_transitions": 5000,
+  "n_train": 3957,
+  "n_test": 1043,
+  "device": "cpu",
+  "config": {
+    "gamma": 0.99,
+    "tau": 0.005,
+    "actor_lr": 0.0001,
+    "critic_lr": 0.0003,
+    "hidden": 256,
+    "batch_size": 64,
+    "updates": 2,
+    "bc_weight": 2.5,
+    "seed": 7
+  }
+}

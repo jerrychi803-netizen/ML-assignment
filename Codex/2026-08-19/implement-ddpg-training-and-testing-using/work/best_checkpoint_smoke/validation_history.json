@@ -1,0 +1,38 @@
+[
+  {
+    "step": 1,
+    "evaluation": "observed within-user slate re-ranking (semi-synthetic offline evaluation)",
+    "slates": 102,
+    "actor_logged_action_mse": 0.10125546157360077,
+    "policy_selected_reward": -3.3801701068878174,
+    "policy_selected_engagement": 0.3512287437915802,
+    "policy_selected_fatigue": 0.5588235259056091,
+    "logged_candidate_reward": -3.3153977394104004,
+    "logged_candidate_engagement": 0.3976916968822479,
+    "logged_candidate_fatigue": 0.5044117569923401
+  },
+  {
+    "step": 2,
+    "evaluation": "observed within-user slate re-ranking (semi-synthetic offline evaluation)",
+    "slates": 102,
+    "actor_logged_action_mse": 0.100059874355793,
+    "policy_selected_reward": -3.415668487548828,
+    "policy_selected_engagement": 0.313113808631897,
+    "policy_selected_fatigue": 0.5661764740943909,
+    "logged_candidate_reward": -3.3153977394104004,
+    "logged_candidate_engagement": 0.3976916968822479,
+    "logged_candidate_fatigue": 0.5044117569923401
+  },
+  {
+    "step": 3,
+    "evaluation": "observed within-user slate re-ranking (semi-synthetic offline evaluation)",
+    "slates": 102,
+    "actor_logged_action_mse": 0.09902183711528778,
+    "policy_selected_reward": -3.4146289825439453,
+    "policy_selected_engagement": 0.31347018480300903,
+    "policy_selected_fatigue": 0.5661764740943909,
+    "logged_candidate_reward": -3.3153977394104004,
+    "logged_candidate_engagement": 0.3976916968822479,
+    "logged_candidate_fatigue": 0.5044117569923401
+  }
+]

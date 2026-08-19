@@ -1,0 +1,30 @@
+{
+  "evaluation": "observed within-user slate re-ranking (semi-synthetic offline evaluation)",
+  "slates": 106,
+  "actor_logged_action_mse": 0.1077047809958458,
+  "policy_selected_reward": -3.2760703563690186,
+  "policy_selected_engagement": 0.4207153916358948,
+  "policy_selected_fatigue": 0.48820754885673523,
+  "logged_candidate_reward": -3.1967594623565674,
+  "logged_candidate_engagement": 0.4407826066017151,
+  "logged_candidate_fatigue": 0.4669811427593231,
+  "checkpoint": "best_ddpg_fatigue.pt",
+  "best_step": 1,
+  "best_validation_policy_selected_reward": -3.3801701068878174,
+  "n_transitions": 5000,
+  "n_train": 3444,
+  "n_validation": 751,
+  "n_test": 805,
+  "device": "cpu",
+  "config": {
+    "gamma": 0.99,
+    "tau": 0.005,
+    "actor_lr": 0.0001,
+    "critic_lr": 0.0003,
+    "hidden": 256,
+    "batch_size": 64,
+    "updates": 3,
+    "bc_weight": 2.5,
+    "seed": 7
+  }
+}

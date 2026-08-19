@@ -1,0 +1,36 @@
+[
+  {
+    "step": 1,
+    "constrained_score": 0.08558415621519089,
+    "evaluation": "same-user observed candidate-slate ranking (offline proxy)",
+    "slates": 102,
+    "actor_logged_action_mse": 0.097151979804039,
+    "policy_watch_time": 0.08558415621519089,
+    "policy_click": 0.18627451360225677,
+    "policy_like": 0.0,
+    "policy_comment": 0.0,
+    "policy_hate": -0.0,
+    "logged_watch_time": 0.16533876955509186,
+    "logged_click": 0.1823529452085495,
+    "logged_like": 0.0,
+    "logged_comment": 0.0,
+    "logged_hate": -0.0
+  },
+  {
+    "step": 2,
+    "constrained_score": 0.08512438088655472,
+    "evaluation": "same-user observed candidate-slate ranking (offline proxy)",
+    "slates": 102,
+    "actor_logged_action_mse": 0.09693978726863861,
+    "policy_watch_time": 0.08512438088655472,
+    "policy_click": 0.1764705926179886,
+    "policy_like": 0.0,
+    "policy_comment": 0.0,
+    "policy_hate": -0.0,
+    "logged_watch_time": 0.16533876955509186,
+    "logged_click": 0.1823529452085495,
+    "logged_like": 0.0,
+    "logged_comment": 0.0,
+    "logged_hate": -0.0
+  }
+]

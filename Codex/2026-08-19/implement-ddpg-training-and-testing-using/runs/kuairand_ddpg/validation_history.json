@@ -1,0 +1,50 @@
+[
+  {
+    "step": 500,
+    "evaluation": "observed within-user slate re-ranking (semi-synthetic offline evaluation)",
+    "slates": 860,
+    "actor_logged_action_mse": 0.08516164869070053,
+    "policy_selected_reward": -3.368818759918213,
+    "policy_selected_engagement": 0.39061450958251953,
+    "policy_selected_fatigue": 0.5276162624359131,
+    "logged_candidate_reward": -3.3537700176239014,
+    "logged_candidate_engagement": 0.39084264636039734,
+    "logged_candidate_fatigue": 0.49796512722969055
+  },
+  {
+    "step": 1000,
+    "evaluation": "observed within-user slate re-ranking (semi-synthetic offline evaluation)",
+    "slates": 860,
+    "actor_logged_action_mse": 0.08906181156635284,
+    "policy_selected_reward": -3.4154534339904785,
+    "policy_selected_engagement": 0.365312397480011,
+    "policy_selected_fatigue": 0.5686046481132507,
+    "logged_candidate_reward": -3.3537700176239014,
+    "logged_candidate_engagement": 0.39084264636039734,
+    "logged_candidate_fatigue": 0.49796512722969055
+  },
+  {
+    "step": 1500,
+    "evaluation": "observed within-user slate re-ranking (semi-synthetic offline evaluation)",
+    "slates": 860,
+    "actor_logged_action_mse": 0.1008174940943718,
+    "policy_selected_reward": -3.474759817123413,
+    "policy_selected_engagement": 0.32777300477027893,
+    "policy_selected_fatigue": 0.6008720993995667,
+    "logged_candidate_reward": -3.3537700176239014,
+    "logged_candidate_engagement": 0.39084264636039734,
+    "logged_candidate_fatigue": 0.49796512722969055
+  },
+  {
+    "step": 2000,
+    "evaluation": "observed within-user slate re-ranking (semi-synthetic offline evaluation)",
+    "slates": 860,
+    "actor_logged_action_mse": 0.12198754400014877,
+    "policy_selected_reward": -3.496788740158081,
+    "policy_selected_engagement": 0.3075629770755768,
+    "policy_selected_fatigue": 0.6209302544593811,
+    "logged_candidate_reward": -3.3537700176239014,
+    "logged_candidate_engagement": 0.39084264636039734,
+    "logged_candidate_fatigue": 0.49796512722969055
+  }
+]
